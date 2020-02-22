@@ -37,7 +37,6 @@ import Table from '@ckeditor/ckeditor5-table/src/table';
 import TableToolbar from '@ckeditor/ckeditor5-table/src/tabletoolbar';
 
 import SimpleUploadAdapter from '@ckeditor/ckeditor5-upload/src/adapters/simpleuploadadapter';
-
 export default class DecoupledEditor extends DecoupledEditorBase {}
 
 // Plugins to include in the build.
